@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: #F3E5D8;
+    
+}
+
+main {
+    max-width: 1000px;
+    max-height: fit-content;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    margin-top: 35px;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+img {
+    margin: 40px 0px ;
+    border-radius: 30px;
+    overflow: auto;
+    width: 900px
+}
+
+h1 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 1000;
+    color: #824431;
+    text-align: start;
+    margin: 0 50px;
+}
+
+div {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: start;
+    margin: 0 50px;
+    margin-bottom: 4px 
+}
